@@ -6,7 +6,8 @@ This is an app where I was practicing functional array methods (.forEach, .find,
 
 username | password
 
-js | 1111
-jd | 2222
-stw | 3333
-ss | 4444
+ACC1: js | 1111
+
+ACC2: jd | 2222
+ACC3: stw | 3333
+ACC4: ss | 4444
